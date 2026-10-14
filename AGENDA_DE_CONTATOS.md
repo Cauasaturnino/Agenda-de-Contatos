@@ -5,5 +5,5 @@ Meu primeiro projeto em Java, nele consiste em uma agenda em que o usuário cons
 - buscar pelo o nome 
 - remover 
 
-Praticando logica de progamção e Progamação Orientada a Objetos
+Praticando lógica de programação e Programação Orientada a Objetos
 Com foco em aprofundar muito mais a lógica e o desenvolvimento na linguagem. 
